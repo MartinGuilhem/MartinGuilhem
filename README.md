@@ -39,7 +39,7 @@
 #### Interested:
 <span style="align-items:center;display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;margin: 60px;">
   <img title="React" alt="React" src="https://github.com/MartinGuilhem/MartinGuilhemCV/blob/main/Logos/react.png" height="30" /> &nbsp;
-  <img title="RPA" alt="RPA" src="https://github.com/MartinGuilhem/MartinGuilhemCV/blob/main/Logos/RPA.png" height="30" /> &nbsp;
+  <img title="RPA" alt="RPA" src="https://github.com/MartinGuilhem/MartinGuilhemCV/blob/main/Logos/RPA.png" height="43" /> &nbsp;
   <img title="HTML5" alt="HTML5" src="https://github.com/MartinGuilhem/MartinGuilhemCV/blob/main/Logos/html5.png" height="43" /> &nbsp;
   <img title="AWS" alt="AWS" src="https://github.com/MartinGuilhem/MartinGuilhemCV/blob/main/Logos/AWS.png" height="43" />
 </span>
